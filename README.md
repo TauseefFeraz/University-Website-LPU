@@ -1,0 +1,2 @@
+# University-Website-LPU-Replica
+This is University website Designed By: Tauseef Feraz. Uisng several web Devlopement languages i.e HTML, CSS, JS, Bootstap and Angular Js. -These is an open Project feel Free to share the query and Pull reqesut to help improve the website.  Note* Home page is INDEX i.e present Folder name Education time.   Lovely Professional University. / images source.  other refrences are from W3School.com  Youtube: youtube.com/TauseefFeraz
